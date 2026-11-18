@@ -2,3 +2,7 @@
 - menjadi front end
 - menjadi back end
 - menjadi full stack developer
+2. saya ingin bisa juga menjadi data analyst
+- bisa menganalisis data
+- membuat insight dari data yang diolah
+- membuat prediksi di masa menjadatang dengan data
